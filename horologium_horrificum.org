@@ -8,7 +8,7 @@ Quia hōrologium eius dīcēbat multa...
 Haroldus dormiēbat.
 Hōrologium dīxit: "Brrrrng! Vigilā! Est tempus! Tē oportet vigilāre ex lectō!"
 Haroldus dīxit: "Volō dormīre! Nōlō vigilāre ex lectō."
-Sed hōrologium eius exit: "Ha ha! Est tempus! Est tempus ad vigilandum. Tē oportet vigilāre!"
+Sed hōrologium eius dīxit: "Ha ha! Est tempus! Est tempus ad vigilandum. Tē oportet vigilāre!"
 Et Haroldus vigilāvit ex lectō.
 
 Haroldus edēbat cum familiā suā.
