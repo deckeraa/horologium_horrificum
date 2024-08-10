@@ -8,18 +8,18 @@ Quia hōrologium eius dīcēbat multa...
 Haroldus dormiēbat.
 Hōrologium dīxit: "Brrrrng! Vigilā! Est tempus! Tē oportet vigilāre ex lectō!"
 Haroldus dīxit: "Volō dormīre! Nōlō vigilāre ex lectō."
-Sed hōrologium eius exit: "Ha ha! Est tempus!"
+Sed hōrologium eius exit: "Ha ha! Est tempus! Est tempus ad vigilandum. Tē oportet vigilāre!"
 Et Haroldus vigilāvit ex lectō.
 
 Haroldus edēbat cum familiā suā.
 Hōrologium dīxit: "Brrrng! Est tempus! Tē oportet īre ad lūdum!"
 Haroldus dīxit: "Nōlō īre ad lūdum. Volō esse cum familiā meā!"
-Sed hōrologium dīxit: "Ha ha! Est tempus!"
+Sed hōrologium dīxit: "Ha ha! Est tempus! Est tempus ad eundum ad lūdum! Ī ad lūdum!"
 
 In lūdō, Haroldus loquēbātur cum amīcīs eius.
-Hōrologium dīxit: "Brrrng! Est tempus! Tū oportet tacēre et scrībere!"
+Hōrologium dīxit: "Brrrng! Est tempus! Tē oportet tacēre et scrībere!"
 Haroldus dīxit: "Nōlō tacēre. Volō loquī cum amīcīs meīs."
-Sed hōrologium dīxit: "Ha ha! Est tempus!"
+Sed hōrologium dīxit: "Ha ha! Est tempus! Est tempus ad tacendum et scrībendum. Tē oportet tacēre. Tacē et scrībe!"
 Magister quoque dīxit: "Haroldus, tacē!"
 
 Post lūdum, Haroldus revertit ad domum.
@@ -31,14 +31,15 @@ Basipila placet Haroldō, sed Haroldus quoque voluit esse in domō cum familiā.
 Post basipilam, Haroldus revertit ad domum.
 Haroldus voluit esse cum familiā suā.
 Sed hōrologium dīxit: "Brrrng!"
-Et māter eius dīxit: "Ōh! Est tempus! Nōs oportet vidēre televisōrium."
+Et māter eius dīxit: "Ōh! Est tempus! Nōs oportet vidēre televisōrium. Est tempus ad videndum televisōrium."
 Et Haroldus erat tristis. Haroldus nōn voluit vidēre televisōrium.
+Haroldus voluit loquī cum familiā suā. Nōluit tacēre et vidēre televisōrum.
 Haroldus voluit edere cēnam cum familiā suā.
 
 Pater Haroldī vīdit Haroldum.
 Pater dīxit: "Haroldus, cūr es trīstis?"
 Haroldus dīxit: "Volō esse cum tē et matrē, sed numquam est tempus. Hōrologium est horrificum!"
-Pater dīxit: "Hōrologium nōn oportet esse horrificum." et mūtāvit tempus.
+Pater dīxit: "Hōrologium nōn oportet esse horrificum." et mūtāvit tempus in hōrologiō.
 "Ecce!" dīxit pater eius, "Nunc est tempus ad cēnandum!"
 
 Et Haroldus cēnābat cum familiā eius.
