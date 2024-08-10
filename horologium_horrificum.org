@@ -12,11 +12,12 @@ Sed hōrologium eius exit: "Ha ha! Est tempus! Est tempus ad vigilandum. Tē opo
 Et Haroldus vigilāvit ex lectō.
 
 Haroldus edēbat cum familiā suā.
-Hōrologium dīxit: "Brrrng! Est tempus! Tē oportet īre ad lūdum!"
+Hōrologium dīxit: "Brrrng! Est tempus! Est tempus ad eundum ad lūdum! Tē oportet īre ad lūdum!"
 Haroldus dīxit: "Nōlō īre ad lūdum. Volō esse cum familiā meā!"
 Sed hōrologium dīxit: "Ha ha! Est tempus! Est tempus ad eundum ad lūdum! Ī ad lūdum!"
 
-In lūdō, Haroldus loquēbātur cum amīcīs eius.
+In lūdō, Haroldus loquēbātur cum amīcīs suīs.
+Loquendum placēbat Haroldum. Haroldus volēbat loquī et loquī cum amīcīs suīs.
 Hōrologium dīxit: "Brrrng! Est tempus! Tē oportet tacēre et scrībere!"
 Haroldus dīxit: "Nōlō tacēre. Volō loquī cum amīcīs meīs."
 Sed hōrologium dīxit: "Ha ha! Est tempus! Est tempus ad tacendum et scrībendum. Tē oportet tacēre. Tacē et scrībe!"
@@ -26,7 +27,18 @@ Post lūdum, Haroldus revertit ad domum.
 Haroldus voluit esse cum familiā eius.
 Sed hōrologium dīxit "Brrrng!"
 Et māter eius dīxit: "Haroldus, nōs oportet īre ad exercitationem basipilae."
-Basipila placet Haroldō, sed Haroldus quoque voluit esse in domō cum familiā.
+Basipila placēbat Haroldō, sed Haroldus quoque voluit esse in domō cum familiā.
+
+Haroldus erat in exercitātiōne basipilae.
+Sed Haroldum oportēbat exspectare.
+Haroldus voluit clāvare.
+Erant multī puerī in ōrdine. Ōrdō puerōrum erat longus. Multī puerī volēbant clāvāre.
+Haroldus exspectāvit et exspectāvit.
+Tunc Haroldus erat prīmus in ōrdine.
+Haroldus praeparāvit ad clāvandum...
+Et hōrologium horrificum dīxit: "Brrrrrrrrrrng! Est tempus ad revertendum ad domum."
+Haroldus voluit clāvare sed nōn potuit. Haroldus erat tristis.
+Hōrologium horrificum dīxit: "Tee hee! Numquam est tempus ad faciendum id quod vīs."
 
 Post basipilam, Haroldus revertit ad domum.
 Haroldus voluit esse cum familiā suā.
@@ -37,7 +49,7 @@ Haroldus voluit loquī cum familiā suā. Nōluit tacēre et vidēre televisōru
 Haroldus voluit edere cēnam cum familiā suā.
 
 Pater Haroldī vīdit Haroldum.
-Pater dīxit: "Haroldus, cūr es trīstis?"
+Pater dīxit: "Harolde, cūr es trīstis?"
 Haroldus dīxit: "Volō esse cum tē et matrē, sed numquam est tempus. Hōrologium est horrificum!"
 Pater dīxit: "Hōrologium nōn oportet esse horrificum." et mūtāvit tempus in hōrologiō.
 "Ecce!" dīxit pater eius, "Nunc est tempus ad cēnandum!"
