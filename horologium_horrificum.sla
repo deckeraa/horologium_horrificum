@@ -25,6 +25,7 @@
         <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="DejaVu Sans Book" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
         <STYLE NAME="Story" LINESP="18" FONT="DejaVu Serif Book" FONTSIZE="16" FONTFEATURES="-clig" LANGUAGE="en_US"/>
+        <STYLE NAME="footnote" FONT="DejaVu Serif Book" FONTSIZE="10" FONTFEATURES="-clig" LANGUAGE="en_US"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -120,14 +121,14 @@
         <PAGE PAGEXPOS="478.001" PAGEYPOS="8644.044" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="28" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="29" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="155824668.082008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="311722707.321993" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="12770498.801" gYpos="155824668.082008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="25525730.801" gYpos="311722707.321993" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
@@ -301,6 +302,200 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Basipila placēbat Haroldō, sed Haroldus quoque voluit esse in domō cum familiā."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.375796178344" YPOS="4383.28662420382" OwnPage="13" ItemID="1612873485" PTYPE="4" WIDTH="226.547770700637" HEIGHT="43.5668789808924" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.548 0 L226.548 43.5669 L0 43.5669 L0 0 Z" copath="M0 0 L226.548 0 L226.548 43.5669 L0 43.5669 L0 0 Z" gXpos="145.375796178344" gYpos="4383.28662420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus erat in exercitātiōne basipilae."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="171.001" YPOS="4632.08280254777" OwnPage="13" ItemID="1573647021" PTYPE="4" WIDTH="211.444859872611" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L211.445 0 L211.445 100 L0 100 L0 0 Z" copath="M0 0 L211.445 0 L211.445 100 L0 100 L0 0 Z" gXpos="171.001" gYpos="4632.08280254777" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Sed Haroldum oportēbat exspectāre."/>
+                <para PARENT="Story"/>
+                <ITEXT CH="Haroldus voluit clāvare."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="540.980891719745" YPOS="4397.14649681529" OwnPage="14" ItemID="1542227229" PTYPE="4" WIDTH="258.649681528662" HEIGHT="64.1019108280261" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L258.65 0 L258.65 64.1019 L0 64.1019 L0 0 Z" copath="M0 0 L258.65 0 L258.65 64.1019 L0 64.1019 L0 0 Z" gXpos="540.980891719745" gYpos="4397.14649681529" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Erant multī puerī in ōrdine. Ōrdō puerōrum erat longus. Multī puerī volēbant clāvāre."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="535.980891719745" YPOS="4621.82165605096" OwnPage="14" ItemID="1591956877" PTYPE="4" WIDTH="203.586987261146" HEIGHT="27.5159235668798" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L203.587 0 L203.587 27.5159 L0 27.5159 L0 0 Z" copath="M0 0 L203.587 0 L203.587 27.5159 L0 27.5159 L0 0 Z" gXpos="535.980891719745" gYpos="4621.82165605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus exspectāvit"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="661.774385350318" YPOS="4750.22292993631" OwnPage="14" ItemID="1609162909" PTYPE="4" WIDTH="127.212875796178" HEIGHT="22.0509554140126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L127.213 0 L127.213 22.051 L0 22.051 L0 0 Z" copath="M0 0 L127.213 0 L127.213 22.051 L0 22.051 L0 0 Z" gXpos="661.774385350318" gYpos="4750.22292993631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="et exspectāvit."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="153.636942675159" YPOS="5013.41401273885" OwnPage="15" ItemID="1562811965" PTYPE="4" WIDTH="248.101910828026" HEIGHT="45.4012738853507" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L248.102 0 L248.102 45.4013 L0 45.4013 L0 0 Z" copath="M0 0 L248.102 0 L248.102 45.4013 L0 45.4013 L0 0 Z" gXpos="153.636942675159" gYpos="5013.41401273885" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Tunc Haroldus erat prīmus in ōrdine."/>
+                <para PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="166.12101910828" YPOS="5238.46496815287" OwnPage="15" ItemID="1574333293" PTYPE="4" WIDTH="240.949044585987" HEIGHT="39.7388535031851" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.949 0 L240.949 39.7389 L0 39.7389 L0 0 Z" copath="M0 0 L240.949 0 L240.949 39.7389 L0 39.7389 L0 0 Z" gXpos="166.12101910828" gYpos="5238.46496815287" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus praeparāvit ad clāvandum..."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="540.573248407643" YPOS="5001.57324840764" OwnPage="16" ItemID="1576572317" PTYPE="4" WIDTH="251.312101910828" HEIGHT="76.0318471337587" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.312 0 L251.312 76.0318 L0 76.0318 L0 0 Z" copath="M0 0 L251.312 0 L251.312 76.0318 L0 76.0318 L0 0 Z" gXpos="540.573248407643" gYpos="5001.57324840764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et hōrologium horrificum dīxit: &quot;Brrrrrrrrrrng! Est tempus ad revertendum ad domum.&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="666.229299363057" YPOS="5182.6050955414" OwnPage="16" ItemID="1562807197" PTYPE="4" WIDTH="145.375796178344" HEIGHT="81.630573248407" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L145.376 0 L145.376 81.6306 L0 81.6306 L0 0 Z" copath="M0 0 L145.376 0 L145.376 81.6306 L0 81.6306 L0 0 Z" gXpos="666.229299363057" gYpos="5182.6050955414" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus voluit clāvare sed nōn potuit. Haroldus erat tristis."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="533" YPOS="5278.69426751592" OwnPage="16" ItemID="1608871853" PTYPE="4" WIDTH="142.643312101911" HEIGHT="132.076433121018" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L142.643 0 L142.643 132.076 L0 132.076 L0 0 Z" copath="M0 0 L142.643 0 L142.643 132.076 L0 132.076 L0 0 Z" gXpos="533" gYpos="5278.69426751592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Hōrologium horrificum dīxit: &quot;Tee hee! Numquam"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" est tempus ad faciendum id quod vīs.&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="533" YPOS="5458.73885350319" OwnPage="16" ItemID="1392755101" PTYPE="4" WIDTH="258.885350318471" HEIGHT="13.2993630573246" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L258.885 0 L258.885 13.2994 L0 13.2994 L0 0 Z" copath="M0 0 L258.885 0 L258.885 13.2994 L0 13.2994 L0 0 Z" gXpos="533" gYpos="5458.73885350319" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="(It) never is time for doing that which you want."/>
+                <trail PARENT="footnote"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.044585987261" YPOS="5606.91719745223" OwnPage="17" ItemID="1598269357" PTYPE="4" WIDTH="250.394904458599" HEIGHT="42.1910828025475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L250.395 0 L250.395 42.1911 L0 42.1911 L0 0 Z" copath="M0 0 L250.395 0 L250.395 42.1911 L0 42.1911 L0 0 Z" gXpos="141.044585987261" gYpos="5606.91719745223" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Post basipilam, Haroldus revertit ad domum."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="196.001" YPOS="5656.66242038217" OwnPage="17" ItemID="1657771629" PTYPE="4" WIDTH="226.578617834395" HEIGHT="41.7324840764331" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.579 0 L226.579 41.7325 L0 41.7325 L0 0 Z" copath="M0 0 L226.579 0 L226.579 41.7325 L0 41.7325 L0 0 Z" gXpos="196.001" gYpos="5656.66242038217" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus voluit esse cum familiā suā."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="161.044585987261" YPOS="5858.029" OwnPage="17" ItemID="1565484253" PTYPE="4" WIDTH="235.057324840764" HEIGHT="41.3659044585993" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L235.057 0 L235.057 41.3659 L0 41.3659 L0 0 Z" copath="M0 0 L235.057 0 L235.057 41.3659 L0 41.3659 L0 0 Z" gXpos="161.044585987261" gYpos="5858.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Sed hōrologium dīxit: &quot;Brrrng!&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="530.801" YPOS="5605.70063694268" OwnPage="18" ItemID="1613540093" PTYPE="4" WIDTH="226.578617834395" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.579 0 L226.579 100 L0 100 L0 0 Z" copath="M0 0 L226.579 0 L226.579 100 L0 100 L0 0 Z" gXpos="530.801" gYpos="5605.70063694268" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et māter eius dīxit: &quot;Ōh! Est tempus! Nōs oportet vidēre televisōrium. Est tempus ad videndum televisōrium.&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="555.001" YPOS="5891.66878980892" OwnPage="18" ItemID="1648398861" PTYPE="4" WIDTH="241.712375796178" HEIGHT="57.7834394904457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L241.712 0 L241.712 57.7834 L0 57.7834 L0 0 Z" copath="M0 0 L241.712 0 L241.712 57.7834 L0 57.7834 L0 0 Z" gXpos="555.001" gYpos="5891.66878980892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et Haroldus erat tristis. Haroldus nōn voluit vidēre televisōrium."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="142.624203821656" YPOS="6226.85350318471" OwnPage="19" ItemID="1521492717" PTYPE="4" WIDTH="224.713375796178" HEIGHT="58.7006369426754" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.713 0 L224.713 58.7006 L0 58.7006 L0 0 Z" copath="M0 0 L224.713 0 L224.713 58.7006 L0 58.7006 L0 0 Z" gXpos="142.624203821656" gYpos="6226.85350318471" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus voluit loquī cum familiā suā. Nōluit tacēre et vidēre televisōrum."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="220.585987261147" YPOS="6477.70700636943" OwnPage="19" ItemID="1579303405" PTYPE="4" WIDTH="200.866242038217" HEIGHT="41.2738853503188" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L200.866 0 L200.866 41.2739 L0 41.2739 L0 0 Z" copath="M0 0 L200.866 0 L200.866 41.2739 L0 41.2739 L0 0 Z" gXpos="220.585987261147" gYpos="6477.70700636943" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus voluit edere cēnam cum familiā suā."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="532.101910828026" YPOS="6227.15286624204" OwnPage="20" ItemID="1537395821" PTYPE="4" WIDTH="273.783439490446" HEIGHT="22.9299363057326" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L273.783 0 L273.783 22.9299 L0 22.9299 L0 0 Z" copath="M0 0 L273.783 0 L273.783 22.9299 L0 22.9299 L0 0 Z" gXpos="532.101910828026" gYpos="6227.15286624204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pater Haroldī vīdit Haroldum."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="524.801" YPOS="6344.35668789809" OwnPage="20" ItemID="1570244461" PTYPE="4" WIDTH="295.2" HEIGHT="26.0382165605097" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 26.0382 L0 26.0382 L0 0 Z" copath="M0 0 L295.2 0 L295.2 26.0382 L0 26.0382 L0 0 Z" gXpos="524.801" gYpos="6344.35668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pater dīxit: &quot;Harolde, cūr es trīstis?&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="540.522292993631" YPOS="6592.94267515924" OwnPage="20" ItemID="1537405037" PTYPE="4" WIDTH="265.363057324841" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L265.363 0 L265.363 100 L0 100 L0 0 Z" copath="M0 0 L265.363 0 L265.363 100 L0 100 L0 0 Z" gXpos="540.522292993631" gYpos="6592.94267515924" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus dīxit: &quot;Volō esse cum tē et matrē, sed numquam est tempus. Hōrologium est horrificum!&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="145.001" YPOS="6843.6050955414" OwnPage="21" ItemID="1644365357" PTYPE="4" WIDTH="256.903458598726" HEIGHT="40.4203821656047" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.903 0 L256.903 40.4204 L0 40.4204 L0 0 Z" copath="M0 0 L256.903 0 L256.903 40.4204 L0 40.4204 L0 0 Z" gXpos="145.001" gYpos="6843.6050955414" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pater dīxit: &quot;Hōrologium nōn oportet esse horrificum.&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="163.375796178344" YPOS="6920.46496815287" OwnPage="21" ItemID="1581238189" PTYPE="4" WIDTH="262.197452229299" HEIGHT="26.885350318471" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L262.197 0 L262.197 26.8854 L0 26.8854 L0 0 Z" copath="M0 0 L262.197 0 L262.197 26.8854 L0 26.8854 L0 0 Z" gXpos="163.375796178344" gYpos="6920.46496815287" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et mūtāvit tempus in hōrologiō."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="163.375796178344" YPOS="7198.24840764331" OwnPage="21" ItemID="1515148749" PTYPE="4" WIDTH="240.305732484076" HEIGHT="62.3694267515921" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L240.306 0 L240.306 62.3694 L0 62.3694 L0 0 Z" copath="M0 0 L240.306 0 L240.306 62.3694 L0 62.3694 L0 0 Z" gXpos="163.375796178344" gYpos="7198.24840764331" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="&quot;Ecce!&quot; dīxit pater eius, &quot;Nunc est tempus ad cēnandum!&quot;"/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="534.726114649682" YPOS="6845.50318471338" OwnPage="22" ItemID="1592065341" PTYPE="4" WIDTH="272.866242038217" HEIGHT="41.2738853503179" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.866 0 L272.866 41.2739 L0 41.2739 L0 0 Z" copath="M0 0 L272.866 0 L272.866 41.2739 L0 41.2739 L0 0 Z" gXpos="534.726114649682" gYpos="6845.50318471338" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et Haroldus cēnābat cum familiā eius."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="534.726114649682" YPOS="7026.43949044586" OwnPage="22" ItemID="1617879021" PTYPE="4" WIDTH="272.866242038217" HEIGHT="42.8598726114651" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.866 0 L272.866 42.8599 L0 42.8599 L0 0 Z" copath="M0 0 L272.866 0 L272.866 42.8599 L0 42.8599 L0 0 Z" gXpos="534.726114649682" gYpos="7026.43949044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Haroldus nōn erat tristis sed laetus."/>
+                <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="534.726114649682" YPOS="7169.5796178344" OwnPage="22" ItemID="1608114349" PTYPE="4" WIDTH="272.866242038217" HEIGHT="43.4553821656036" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L272.866 0 L272.866 43.4554 L0 43.4554 L0 0 Z" copath="M0 0 L272.866 0 L272.866 43.4554 L0 43.4554 L0 0 Z" gXpos="534.726114649682" gYpos="7169.5796178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Et hōrologium tacēbat et nōn dīcēbat quidquam."/>
                 <trail PARENT="Story"/>
             </StoryText>
         </PAGEOBJECT>
