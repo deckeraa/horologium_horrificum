@@ -26,6 +26,7 @@
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
         <STYLE NAME="Story" LINESP="18" FONT="DejaVu Serif Book" FONTSIZE="16" FONTFEATURES="-clig" LANGUAGE="en_US"/>
         <STYLE NAME="footnote" FONT="DejaVu Serif Book" FONTSIZE="10" FONTFEATURES="-clig" LANGUAGE="en_US"/>
+        <STYLE NAME="introduction" FONT="DejaVu Serif Book" FONTFEATURES="-clig" LANGUAGE="en_US"/>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -121,14 +122,14 @@
         <PAGE PAGEXPOS="478.001" PAGEYPOS="8644.044" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="28" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="29" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="311722707.321993" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="373446207.922005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="25525730.801" gYpos="311722707.321993" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="30575810.801" gYpos="373446207.922005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
@@ -497,6 +498,33 @@
                 <DefaultStyle/>
                 <ITEXT CH="Et hōrologium tacēbat et nōn dīcēbat quidquam."/>
                 <trail PARENT="Story"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="560.617834394905" YPOS="9296.047" OwnPage="30" ItemID="1656750653" PTYPE="4" WIDTH="225.630573248408" HEIGHT="151.337579617833" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.631 0 L225.631 151.338 L0 151.338 L0 0 Z" copath="M0 0 L225.631 0 L225.631 151.338 L0 151.338 L0 0 Z" gXpos="560.617834394905" gYpos="9296.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <tab/>
+                <ITEXT CH="They are always saying, &quot;You can't put the clock back.&quot; The simple and obvious answer is &quot;You can.&quot; A clock, being a piece of human construction, can be restored by the human finger to any figure or hour. In the same way society, being a piece of human construction, can be reconstructed upon any plan that has ever existed."/>
+                <trail PARENT="introduction"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="624.179343949045" YPOS="9632.53503184713" OwnPage="30" ItemID="1598885149" PTYPE="4" WIDTH="195.821656050955" HEIGHT="49.5159235668798" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L195.822 0 L195.822 49.5159 L0 49.5159 L0 0 Z" copath="M0 0 L195.822 0 L195.822 49.5159 L0 49.5159 L0 0 Z" gXpos="624.179343949045" gYpos="9632.53503184713" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="G.K Chesterton,"/>
+                <para PARENT="introduction" ALIGN="0"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="What's Wrong With the World,"/>
+                <para PARENT="introduction" ALIGN="0"/>
+                <ITEXT CH="Chapter 4: The Fear of the Past"/>
+                <trail PARENT="introduction" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="560.617834394905" YPOS="9461.1974522293" OwnPage="30" ItemID="1512765485" PTYPE="4" WIDTH="225.630573248408" HEIGHT="151.337579617833" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L225.631 0 L225.631 151.338 L0 151.338 L0 0 Z" copath="M0 0 L225.631 0 L225.631 151.338 L0 151.338 L0 0 Z" gXpos="560.617834394905" gYpos="9461.1974522293" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <tab/>
+                <ITEXT CH="Dīcunt semper, &quot;Revertēre hōrologium nōn potes.&quot; Respōnsum simplex et manifēstum est &quot;Potes.&quot; Hōrologium, quod est opus hūmānum, potest revertī digitō hūmānō ad aliquam hōram. Societās etsī, quod est opus hūmānum, potest cōnstruī iterum, secundum quodlibet cōnsilium quod umquam fuit."/>
+                <trail PARENT="introduction"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
