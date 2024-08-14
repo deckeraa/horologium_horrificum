@@ -1,8 +1,19 @@
-* Haec fābula
+Hic liber dēdicātur geniō poēticō virī cuius nōmen fuit G.K. Chesterton.
 
+* Haec fābula
+This Latin novella has 405 words. It is written for beginner Latin students.
+I recommend reading the book through at a casual spoken pace.
+See what you can understand of the story based upon the words you understand and the pictures.
+Then, using the full glossary located in the back of the book, figure out any sentences that you had difficulty with on the first time through.
+
+An explanation of some of the grammatical constructions used in this book are below. 
+You do NOT need to read the explanations before attempting the book; in fact, it would be best to try reading the text first, and then come back if needed.
+
+This book has 87 unique words, and the average sentence length is 6.5 words.
+The word order is intentionally English-like to make it an easier read.
 
 * "You need to..." using oportet
-Oportet means "it is necessary" and is used to say someone needs to do something.
+Oportet means "it is necessary" and can be used used to say someone needs to do something.
 Example from John 3 in the Vulgate: "oportet vōs nāscī dēnuō."
 This can be translated as "you must be born again" or, more literally, "it is necessary that you be born again."
 (In this example nāscī is an infinitive -- if it doesn't look like infinitives that you are familiar with, that's because the verb is deponent).
@@ -11,7 +22,7 @@ The accusative case is used to indicate who needs to do the thing.
 Example: Tē oportet scrībere = It is necessary for you to write = You must write.
 
 * "It's time for..." using gerunds
-The clock in this story uses a genitive gerund to say what its time for.
+The clock in this story uses a genitive gerund to say what it is time for.
 A gerund is a verb that functions like a noun. Example: "Running is fun." "Running" is a gerund.
 
 An example of saying that it's time to return home:
@@ -19,12 +30,12 @@ An example of saying that it's time to return home:
 
 The genitive gerund can usually be formed by tacking -ndī onto your verb, like so: revertere -> revertendī
 
-An example of this usage can be found in Ecclesiates 3:2:
+An example of this usage can be found in Ecclesiates 3:2.
 "tempus nāscendī et tempus moriendī" = A time of being born and a time of dying = A time to be born and a time to die.
 
-* "He likes..." using placere
-To say someone likes something, we use a construction using placere, which means "to please."
-So "I like the cat" is "Fēlīs mihī placet" (literally, "the cat is pleasing to me").
+* "He likes..." using placēre
+To say someone likes something, we use a construction using placēre, which means "to please."
+So "I like the cat" is "Fēlis mihī placet" (literally, "the cat is pleasing to me").
 Note that "cat" is in the nominative and "mihī" is in the dative.
 
 An example with the imperfect tense: "Basipila placēbat Haroldō" = Baseball was pleasing to Harold = Harold liked baseball.
