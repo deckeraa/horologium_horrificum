@@ -39,3 +39,10 @@ So "I like the cat" is "Fēlis mihī placet" (literally, "the cat is pleasing to
 Note that "cat" is in the nominative and "mihī" is in the dative.
 
 An example with the imperfect tense: "Basipila placēbat Haroldō" = Baseball was pleasing to Harold = Harold liked baseball.
+
+* description
+Harold has a horrific clock -- it's always telling him it's time to do something. Will it ever be time for Harold to do something he wants?
+
+This is an easy-to-read Latin novella with 405 total words and 87 unique words. It includes copious illustrations. Sentences use English-like word order to make the text easy for beginner students.
+
+A full glossary with every term used, fully parsed, is included in the book.
