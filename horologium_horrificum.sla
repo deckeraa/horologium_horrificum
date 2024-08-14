@@ -126,14 +126,14 @@
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9876.05" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="31" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9876.05" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="32" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="1111825595.90832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="1524976077" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="1139806916.1804" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="91194914.801" gYpos="1111825595.90832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="1382991661" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="93341198.801" gYpos="1139806916.1804" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
@@ -416,21 +416,21 @@
         <PAGEOBJECT XPOS="530.801" YPOS="6855.70663694267" OwnPage="22" ItemID="1613540093" PTYPE="4" WIDTH="226.578617834395" HEIGHT="100" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L226.579 0 L226.579 100 L0 100 L0 0 Z" copath="M0 0 L226.579 0 L226.579 100 L0 100 L0 0 Z" gXpos="530.801" gYpos="6855.70663694267" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Et māter eius dīxit: &quot;Ōh! Est tempus! Nōs oportet vidēre televisōrium. Est tempus videndī televisōrium.&quot;"/>
+                <ITEXT CH="Et māter eius dīxit: &quot;Ōh! Est tempus! Nōs oportet vidēre tēlevisōrium. Est tempus videndī tēlevisōrium.&quot;"/>
                 <trail PARENT="Story"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="555.001" YPOS="7139.67478980892" OwnPage="22" ItemID="1648398861" PTYPE="4" WIDTH="241.712375796178" HEIGHT="57.7834394904457" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L241.712 0 L241.712 57.7834 L0 57.7834 L0 0 Z" copath="M0 0 L241.712 0 L241.712 57.7834 L0 57.7834 L0 0 Z" gXpos="555.001" gYpos="7139.67478980892" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Et Haroldus erat tristis. Haroldus nōn voluit vidēre televisōrium."/>
+                <ITEXT CH="Et Haroldus erat tristis. Haroldus nōn voluit vidēre tēlevisōrium."/>
                 <trail PARENT="Story"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="142.624203821656" YPOS="7458.85950318471" OwnPage="23" ItemID="1521492717" PTYPE="4" WIDTH="224.713375796178" HEIGHT="58.7006369426754" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224.713 0 L224.713 58.7006 L0 58.7006 L0 0 Z" copath="M0 0 L224.713 0 L224.713 58.7006 L0 58.7006 L0 0 Z" gXpos="142.624203821656" gYpos="7458.85950318471" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Haroldus voluit loquī cum familiā suā. Nōluit tacēre et vidēre televisōrium."/>
+                <ITEXT CH="Haroldus voluit loquī cum familiā suā. Nōluit tacēre et vidēre tēlevisōrium."/>
                 <trail PARENT="Story"/>
             </StoryText>
         </PAGEOBJECT>
@@ -752,7 +752,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="televisōrium: television; singular masculine nominative or accusative from televisōrium, televisōriī"/>
+                <ITEXT CH="tēlevisōrium: television; singular masculine nominative or accusative from tēlevisōrium, tēlevisōriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
@@ -760,11 +760,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="videndī: of seeing; genitive gerund n  present active from videō, vidēre, vīdī, vīsupresent infinitiverson singular perfect active from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="videndī: of seeing; genitive gerund from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vigilā: wake up!; 2nd person singular present active imperative from vigre, vigilvigilandī: of waking up; singular masculine genitive future passive participle genitive gerund o wake up;  person  present active from vigilo, vigilare, vigilavpresent infinitive he woke up; 3rd person singular perfect active from vigilo, vigilare, vigilavi, vigilatus"/>
+                <ITEXT CH="vidēre: present infinitive from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīs: you want; 2nd person singular present active from vis X [XXXAX]"/>
+                <ITEXT CH="vigilā: wake up!; singular imperative from vigilō, vigilāre, vigilāvī, vigilātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vigilandī: of waking up; genitive gerund from vigilō, vigilāre, vigilāvī, vigilātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vigilāre: to wake up; present infinitive from vigilō, vigilāre, vigilāvī, vigilātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vigilavit: he woke up; 3rd person singular perfect active from vigilō, vigilāre, vigilāvī, vigilātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīs: you want; 2nd person singular present active from velle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volēbant: they were wanting; 3rd person velleect active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
