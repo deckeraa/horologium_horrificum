@@ -130,14 +130,14 @@
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9260.047" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="30" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9876.05" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="31" NAM="" MNAM="Normal Left" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="478.001" PAGEYPOS="9876.05" PAGEWIDTH="378" PAGEHEIGHT="576" BORDERLEFT="46.8" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="32" NAM="" MNAM="Normal Right" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="442129453" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="1393398103.19709" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="549.202" OwnPage="0" ItemID="442129453" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Left" gXpos="136.001" gYpos="1420876765.02117" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="442236013" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="112792700.801" gYpos="1393398103.19709" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="146.801" YPOS="549.202" OwnPage="1" ItemID="442236013" PTYPE="4" WIDTH="295.2" HEIGHT="10.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" copath="M0 0 L295.2 0 L295.2 10.8 L0 10.8 L0 0 Z" OnMasterPage="Normal Right" gXpos="114900428.801" gYpos="1420876765.02117" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="8"/>
@@ -678,15 +678,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māter: mother; singular feminine nominative from māter, mātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mātre: mother; singular feminine  from māter, mātris"/>
+                <ITEXT CH="mātre: mother; singular feminine ablative from māter, mātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mea: my; singular feminine nominative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="meīs: our; plural  dative from meus, mea, meum"/>
+                <ITEXT CH="meīs: our; plural dative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="multa: many; singular feminine nominative from multus, multa -um, -, plūrimus -a -um"/>
+                <ITEXT CH="multa: many; singular feminine or plural accusative nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="multī: many; singular masculine genitive from multus, multa -um, -, plūrimus -a -um"/>
+                <ITEXT CH="multī: many; plural masculine nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mūtāvit: he changed; 3rd person singular perfect active from mūtō, mūtāre, mūtāvī, mūtātus"/>
                 <para PARENT="Vocab"/>
@@ -704,7 +704,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="oportet: it is necessary; 3rd person singular present from oportēre"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōrdine: order; singular masculine  from ōrdō, ōrdinis"/>
+                <ITEXT CH="ōrdine: order; singular masculine ablative from ōrdō, ōrdinis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōrdō: order; singular masculine nominative from ōrdō, ōrdinis"/>
                 <para PARENT="Vocab"/>
@@ -720,33 +720,33 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīmus: first; singular masculine nominative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="puerī: boy; singular masculine genitive from puer, puerī"/>
+                <ITEXT CH="puerī: boys; plural masculine nominative from puer, puerī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="puerōrum: of boys; plural masculine genitive from puer, puerī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quam: how? how much?"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quidquam: anything"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quō: what; singular ablative of quis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="revertendī: of returning; genitive gerund from reverto, revertere, reverti, -"/>
+                <ITEXT CH="revertendī: of returning; genitive gerund from revertō, revertere, revertī, reversus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="revertit: he returned; 3rd person singular present active from reverto, revertere, reverti, -"/>
+                <ITEXT CH="revertit: he returned; 3rd person singular present active from revertō, revertere, revertī, reversus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="scrībe: write!; singular imperative from scrībō, scrībere, scrīpsī, scrīptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="scrībendī: of writing; genitive gerund from scrībō, scrībere, scrīpsī, scrīptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="scrībere: to write;  person  present active from scrībō, scrībere, scrīpsī, scrīptus"/>
+                <ITEXT CH="scrībere: to write; present infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suā: her/its; sing. fem. ablative from suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suis: their; plural ablative of suus"/>
+                <ITEXT CH="suīs: their; plural ablative of suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tacē: be silent!; singular imperative from taceō, tacēre, tacuī, tacitus"/>
                 <para PARENT="Vocab"/>
@@ -754,33 +754,33 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tacendī: of being silent; genitive gerund from taceō, tacēre, tacuī, tacitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tacēre: to be silent; present infinitive from taceō, tacēre, tacuī, tacitus"/>
+                <ITEXT CH="tacēre: to be silent; present infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative or ablative from tu"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tēlevisōrium: television; singular masculine nominative or accusative from tēlevisōrium, tēlevisōriī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
+                <ITEXT CH="tempus: time, period; singular neuter nominative or accusative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trīstis: sad; singular common nominative from trīstis, trīstis, trīste"/>
+                <ITEXT CH="trīstis: sad; singular masculine or feminine nominative from trīstis, trīstis, trīste"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="videndī: of seeing; genitive gerund from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēre: present infinitive from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidēre: present infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vigilā: wake up!; singular imperative from vigilō, vigilāre, vigilāvī, vigilātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vigilandī: of waking up; genitive gerund from vigilō, vigilāre, vigilāvī, vigilātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vigilāre: to wake up; present infinitive from vigilō, vigilāre, vigilāvī, vigilātus"/>
+                <ITEXT CH="vigilāre: to wake up; present infinitive"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vigilavit: he woke up; 3rd person singular perfect active from vigilō, vigilāre, vigilāvī, vigilātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīs: you want; 2nd person singular present active from velle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="volēbant: they were wanting; 3rd person velleect active from volō, velle, voluī, -"/>
+                <ITEXT CH="volēbant: they were wanting; 3rd person plural active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volēbat: he was wanting; 3rd person singular imperfect active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
